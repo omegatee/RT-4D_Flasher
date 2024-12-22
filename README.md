@@ -13,6 +13,10 @@ Boot sequencies:
 POWER-ON +
 
 PTT = Upgrade MCU FW    <-- use this to flash
+
 MENU = Upgrade DMR FW
+
 LEFT = Copy (Master)
+
 RIGHT = Copy ("Slaver")
+
