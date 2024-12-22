@@ -9,14 +9,12 @@ Radtel RT-4D Flash Tool for binary files
 Unzip file an install. For Linux only.
 
 
-Boot sequencies:
-POWER-ON +
+# Boot sequencies:
 
-PTT = Upgrade MCU FW    <-- use this to flash
+- POWER-ON +
 
-MENU = Upgrade DMR FW
-
-LEFT = Copy (Master)
-
-RIGHT = Copy ("Slaver")
+  - PTT = Upgrade MCU FW    <--[use this to flash]
+  - MENU = Upgrade DMR FW
+  - LEFT = Copy (Master)
+  - RIGHT = Copy ("Slaver")
 
