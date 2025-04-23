@@ -7,7 +7,7 @@ Radtel RT-4D Flash Tool for binary files
 
 
 Unzip file and install. For Linux only.
-
+*NEW*: Windows version for RT-4D, RT-890 & RT-860 available at [RT-Flash_Installer.zip](https://t.me/RT4D_Rev_Eng/1275/2627)
 
 # Boot sequencies:
 
